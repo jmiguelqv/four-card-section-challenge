@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [Cards](https://github.com/jmiguelqv/four-card-section-challenge)
+-   Live Site URL: [Cards](https://jmiguelqv.github.io/four-card-section-challenge/)
 
 ## My process
 
